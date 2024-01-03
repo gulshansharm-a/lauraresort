@@ -795,7 +795,10 @@
         left: 8px;
         right: auto
     }
-
+*{
+    margin: 0;
+    padding: 0;
+}
     .header-rtl #Header_creative .creative-social {
         left: 0;
         right: auto
